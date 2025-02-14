@@ -1,0 +1,15 @@
+C:\Programas EdD\Solution01\POOconcepts\bin\Debug\net8.0\POOconcepts.exe
+C:\Programas EdD\Solution01\POOconcepts\bin\Debug\net8.0\POOconcepts.deps.json
+C:\Programas EdD\Solution01\POOconcepts\bin\Debug\net8.0\POOconcepts.runtimeconfig.json
+C:\Programas EdD\Solution01\POOconcepts\bin\Debug\net8.0\POOconcepts.dll
+C:\Programas EdD\Solution01\POOconcepts\bin\Debug\net8.0\POOconcepts.pdb
+C:\Programas EdD\Solution01\POOconcepts\obj\Debug\net8.0\POOconcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas EdD\Solution01\POOconcepts\obj\Debug\net8.0\POOconcepts.AssemblyInfoInputs.cache
+C:\Programas EdD\Solution01\POOconcepts\obj\Debug\net8.0\POOconcepts.AssemblyInfo.cs
+C:\Programas EdD\Solution01\POOconcepts\obj\Debug\net8.0\POOconcepts.csproj.CoreCompileInputs.cache
+C:\Programas EdD\Solution01\POOconcepts\obj\Debug\net8.0\POOconcepts.sourcelink.json
+C:\Programas EdD\Solution01\POOconcepts\obj\Debug\net8.0\POOconcepts.dll
+C:\Programas EdD\Solution01\POOconcepts\obj\Debug\net8.0\refint\POOconcepts.dll
+C:\Programas EdD\Solution01\POOconcepts\obj\Debug\net8.0\POOconcepts.pdb
+C:\Programas EdD\Solution01\POOconcepts\obj\Debug\net8.0\POOconcepts.genruntimeconfig.cache
+C:\Programas EdD\Solution01\POOconcepts\obj\Debug\net8.0\ref\POOconcepts.dll
